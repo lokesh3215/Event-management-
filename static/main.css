@@ -1,0 +1,50 @@
+body,
+input,
+textarea,
+select {
+  font-family: 'Open Sans', Lucida Handwriting;
+  font-size: 13px;
+  color: blue;
+  background-color:#DDA0DD;
+
+
+
+
+}
+
+
+h1 {
+  font-size: 32px;
+  font-weight: 300;
+  color: pink;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  background-color: #663399;
+}
+
+.box h2{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.box {
+  margin: 20px auto;
+  width: 310px; 
+  height: 300px;
+  -webkit-border-radius: 8px/7px; 
+  -moz-border-radius: 8px/7px; 
+  border-radius: 8px/7px; 
+  background-color: #FFF0F5;
+  -webkit-box-shadow: 1px 2px 200px violet;
+  -moz-box-shadow: 1px 2px 200px grey;
+  box-shadow: 1px 2px 200px pink;
+  border: solid 1px grey;
+}
+
+input{
+  margin-top: 15px;
+  margin-left: 25%;
+  margin-right:25%;
+}
